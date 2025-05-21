@@ -1,0 +1,7 @@
+====== RESUMEN DE BENCHMARK - DOCKER CONTAINER ======
+🔸 CPU (sysbench): 1250.45 events/sec
+🔸 Escritura en disco: 105 MB/s
+🔸 Velocidad de red local (iperf3): No disponible
+🔸 Memoria usada: 150M / 1.9G
+🔸 MySQL está corriendo: active
+==============================================
